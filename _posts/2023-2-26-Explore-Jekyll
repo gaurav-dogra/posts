@@ -1,0 +1,29 @@
+---
+title: "Explore-Jekyll"
+date: 2023-2-26
+---
+
+Launch - Excel parsing Spring Boot app
+Automated excel report at my current workplace
+Used Apache POI, Java 8, Spring MVC, Spring Boot, Thymeleaf, Bootstrap 5, JUnit 5, Heroku
+Input is an excel sheet which is downloaded from access control system and output is two reports based on it
+Reports are better presented visually
+This report is run once every day, saving precious 5 minuntes
+
+Launch - Easy Notifications Spring Boot App
+Everyday I saw my wife google
+
+BSE Sensex
+GBP to INR rate
+London underground trains status
+And I thought of automating this information for her. I am yet to decide how this information is presented to her. Options are
+SMS
+Whatsapp Message
+Email
+Push notifications on a mobile app
+I am also hoping that others would also be interested in this service. And there is a lot of information which can be offered to subscribers, such as
+Weather for the day
+Matches of the day
+Other stock markets
+Other currencies
+and so much else.....
